@@ -11,3 +11,5 @@ Tujuan Pembelajaran dari Project ini:
 2.	Memberikan gambaran secara umum pemodelan dengan menggunakan R.
  
 Catatan : Apabila ingin melakukan eksplorasi pada R yang terpasang pada komputer, dapat ditambahkan perintah setwd(“path file tempat kamu bekerja”) pada tiap baris pertama editor di R-Studio kamu
+
+Project Analisa Klasifikasi Pinjaman untuk Sektor UMKM dari https://academy.dqlab.id/
